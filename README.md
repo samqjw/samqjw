@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samqjw
+- 👋 Hi, I’m sam!
 - 👀 I’m interested in Service Design and User Experience design.
-- 🌱 I’m currently learning Front End Development on FCC and TOP to better understand how UX and front end can collaborate seamlessly.
+- 🌱 Currently learning Front End Development on FCC and TOP to better understand how UX and front end can collaborate seamlessly.
 - 📫 You can reach me at my <a href="https://www.samuelquah.com">UX Portfolio</a>
 
 <!---
